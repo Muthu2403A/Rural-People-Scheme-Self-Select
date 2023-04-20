@@ -1,0 +1,69 @@
+CRITICAL - 2023-04-09 07:51:29 --> Undefined variable $status
+in APPPATH\Views\user\userpage.tpl on line 80.
+ 1 APPPATH\Views\user\userpage.tpl(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\user\\userpage.tpl', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\userpage.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/userpage.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('user/userpage.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 07:52:53 --> Undefined variable $status
+in APPPATH\Views\user\userpage.tpl on line 80.
+ 1 APPPATH\Views\user\userpage.tpl(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\user\\userpage.tpl', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\userpage.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/userpage.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('user/userpage.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 07:54:15 --> Undefined variable $status
+in APPPATH\Views\user\userpage.tpl on line 80.
+ 1 APPPATH\Views\user\userpage.tpl(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\user\\userpage.tpl', 80)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\userpage.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/userpage.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(47): view('user/userpage.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 07:54:56 --> Call to a member function getResult() on string
+in APPPATH\Views\user\userpage.tpl on line 80.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/userpage.tpl', [], true)
+ 4 APPPATH\Controllers\Home.php(70): view('user/userpage.tpl', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 07:56:52 --> Call to a member function getResult() on string
+in APPPATH\Views\user\userpage.tpl on line 79.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/userpage.tpl', [], true)
+ 4 APPPATH\Controllers\Home.php(70): view('user/userpage.tpl', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 08:54:01 --> Undefined variable $app_id
+in APPPATH\Controllers\Home.php on line 186.
+ 1 APPPATH\Controllers\Home.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $app_id', 'APPPATH\\Controllers\\Home.php', 186)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->form_process()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 09:24:26 --> Cannot redeclare App\Controllers\Home::confirm_process()
+in APPPATH\Controllers\Home.php on line 195.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-09 09:28:12 --> Cannot redeclare App\Controllers\Home::confirm_process()
+in APPPATH\Controllers\Home.php on line 195.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-09 17:24:50 --> Cannot redeclare App\Controllers\Home::confirm_process()
+in APPPATH\Controllers\Home.php on line 195.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

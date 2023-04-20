@@ -1,0 +1,75 @@
+CRITICAL - 2023-03-26 14:02:11 --> Invalid file: "home.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home.tpl', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('home.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:30:42 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(41): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:30:58 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(41): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:31:06 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(70): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registration_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:31:48 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(71): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registration_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:31:53 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(71): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registration_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-26 17:32:08 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\login.tpl on line 36.
+ 1 APPPATH\Views\login.tpl(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\login.tpl', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\login.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(71): view('login.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registration_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

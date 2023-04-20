@@ -1,0 +1,39 @@
+CRITICAL - 2023-03-14 06:07:16 --> Too few arguments to function App\Controllers\Student::remove_process(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 102.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->remove_process()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 11:29:33 --> Undefined variable $stud_id
+in APPPATH\Views\students\pages-blank.tpl on line 302.
+ 1 APPPATH\Views\students\pages-blank.tpl(302): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\pages-blank.tpl', 302)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(27): view('students/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 11:30:30 --> Undefined variable $stud_id
+in APPPATH\Views\students\pages-blank.tpl on line 302.
+ 1 APPPATH\Views\students\pages-blank.tpl(302): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\pages-blank.tpl', 302)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(27): view('students/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 12:29:55 --> Undefined variable $stud_id
+in APPPATH\Views\students\pages-blank.tpl on line 301.
+ 1 APPPATH\Views\students\pages-blank.tpl(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\pages-blank.tpl', 301)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(27): view('students/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

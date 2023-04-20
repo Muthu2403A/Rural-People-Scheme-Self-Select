@@ -1,0 +1,25 @@
+CRITICAL - 2023-04-11 17:11:34 --> log_message(): Argument #2 ($message) must be of type string, array given, called in C:\xampp1\htdocs\RPDS\app\Controllers\Home.php on line 217
+in SYSTEMPATH\Common.php on line 801.
+ 1 APPPATH\Controllers\Home.php(217): log_message('error', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_view()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-11 17:11:56 --> $data
+ERROR - 2023-04-11 17:16:12 --> $query
+ERROR - 2023-04-11 17:16:12 --> $data
+CRITICAL - 2023-04-11 17:17:05 --> log_message(): Argument #2 ($message) must be of type string, CodeIgniter\Database\MySQLi\Result given, called in C:\xampp1\htdocs\RPDS\app\Models\Home_model.php on line 80
+in SYSTEMPATH\Common.php on line 801.
+ 1 APPPATH\Models\Home_model.php(80): log_message('error', Object(CodeIgniter\Database\MySQLi\Result))
+ 2 APPPATH\Controllers\Home.php(216): App\Models\Home_model->user_data(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_view()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 17:22:31 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Models\Home_model.php on line 80.
+ 1 APPPATH\Controllers\Home.php(216): App\Models\Home_model->user_data(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->user_view()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,40 @@
+ERROR - 2023-03-12 08:17:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1 in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-03-12 08:17:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1 in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-12 08:17:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'m123@gmail.com\' and Password=\'m123\'\' ')
+ 2 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-12 08:17:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'m123@gmail.com\' and Password=\'m123\'\' ')
+ 2 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

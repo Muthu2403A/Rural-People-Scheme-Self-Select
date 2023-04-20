@@ -1,0 +1,243 @@
+CRITICAL - 2023-03-09 07:16:14 --> Invalid file: "admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:16:37 --> Invalid file: "admin/page-sign-in.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/page-sign-in.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/page-sign-in.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(34): view('admin/page-sign-in.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->sign_in()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:18:01 --> Invalid file: "Admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('Admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:18:52 --> Invalid file: "Admin/page-sign-in.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-sign-in.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-sign-in.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(34): view('Admin/page-sign-in.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->sign_in()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:18:57 --> Invalid file: "Admin/page-sign-up.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-sign-up.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-sign-up.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(38): view('Admin/page-sign-up.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->sign_up()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:19:00 --> Invalid file: "Admin/page-blanks.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-blanks.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-blanks.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(26): view('Admin/page-blanks.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->blank()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:19:15 --> Invalid file: "Admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('Admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:19:20 --> Invalid file: "Admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('Admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:19:54 --> Invalid file: "Admin/page-blanks.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-blanks.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-blanks.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(26): view('Admin/page-blanks.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->blank()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:20:08 --> Invalid file: "Admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('Admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:20:14 --> Invalid file: "Admin/page-profile.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-profile.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-profile.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(30): view('Admin/page-profile.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:20:17 --> Invalid file: "Admin/page-sign-in.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/page-sign-in.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/page-sign-in.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(34): view('Admin/page-sign-in.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->sign_in()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:31:15 --> Invalid file: "Admin/pages-blanks.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/pages-blanks.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/pages-blanks.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(26): view('Admin/pages-blanks.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->blank()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 07:31:21 --> Invalid file: "Admin/pages-blanks.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/pages-blanks.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/pages-blanks.tpl', [], true)
+ 3 APPPATH\Controllers\Admin.php(26): view('Admin/pages-blanks.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->blank()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 09:09:02 --> Invalid file: "student/index.tpl"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('student/index.tpl')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('student/index.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(11): view('student/index.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 09:39:40 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'codedb', 3306, '', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#4 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-09 09:39:40 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'m123@gmail.com\' and Password=\'m123\' ')
+ 3 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 09:47:36 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'codedb', 3306, '', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#4 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-09 09:47:36 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'\' and Password=\'\' ')
+ 3 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 10:07:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1 in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 10:07:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''m123''' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'m123@gmail.com\' and Password=\'m123\'\' ')
+ 2 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 10:09:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''siva35''' at line 1 in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Home.php(36): App\Models\Home_model->login_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Home->login_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 10:09:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''siva35''' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(22): CodeIgniter\Database\BaseConnection->query('SELECT * FROM persons WHERE Email=\'siva24@gmail.com\' and Password=\'siva35\'\' ')
+ 2 APPPATH\Controllers\Home.php(36): App\Models\Home_model->login_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

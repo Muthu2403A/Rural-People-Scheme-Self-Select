@@ -1,0 +1,172 @@
+CRITICAL - 2023-03-31 05:03:54 --> Undefined property: stdClass::$scheme
+in APPPATH\Views\admin\pages-blank.tpl on line 71.
+ 1 APPPATH\Views\admin\pages-blank.tpl(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$scheme', 'APPPATH\\Views\\admin\\pages-blank.tpl', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('admin/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 05:04:49 --> Undefined property: stdClass::$stud_id
+in APPPATH\Views\admin\pages-blank.tpl on line 77.
+ 1 APPPATH\Views\admin\pages-blank.tpl(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$stud_id', 'APPPATH\\Views\\admin\\pages-blank.tpl', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('admin/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 05:04:51 --> Undefined property: stdClass::$stud_id
+in APPPATH\Views\admin\pages-blank.tpl on line 77.
+ 1 APPPATH\Views\admin\pages-blank.tpl(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$stud_id', 'APPPATH\\Views\\admin\\pages-blank.tpl', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('admin/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 05:04:54 --> Undefined property: stdClass::$stud_id
+in APPPATH\Views\admin\pages-blank.tpl on line 77.
+ 1 APPPATH\Views\admin\pages-blank.tpl(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$stud_id', 'APPPATH\\Views\\admin\\pages-blank.tpl', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('admin/pages-blank.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->list_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 06:46:46 --> Undefined variable $Stud_model
+in APPPATH\Controllers\Home.php on line 115.
+ 1 APPPATH\Controllers\Home.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Stud_model', 'APPPATH\\Controllers\\Home.php', 115)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->view_process('1057821')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 06:47:08 --> Undefined variable $status
+in APPPATH\Views\admin\view.tpl on line 122.
+ 1 APPPATH\Views\admin\view.tpl(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\admin\\view.tpl', 122)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\view.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/view.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(116): view('admin/view.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->view_process('1057821')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 07:36:33 --> Undefined variable $user
+in APPPATH\Views\admin\view.tpl on line 122.
+ 1 APPPATH\Views\admin\view.tpl(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\admin\\view.tpl', 122)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\view.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/view.tpl', [], true)
+ 5 APPPATH\Controllers\Home.php(116): view('admin/view.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->view_process('1057821')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 07:37:35 --> syntax error, unexpected end of file
+in APPPATH\Views\admin\view.tpl on line 283.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/view.tpl', [], true)
+ 3 APPPATH\Controllers\Home.php(116): view('admin/view.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->view_process('1057821')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:28:37 --> Undefined variable $add_id
+in APPPATH\Controllers\Home.php on line 127.
+ 1 APPPATH\Controllers\Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $add_id', 'APPPATH\\Controllers\\Home.php', 127)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-31 08:30:20 --> mysqli_sql_exception: Unknown column 'confirm' in 'field list' in C:\xampp1\htdocs\RPDS\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\RPDS\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE scheme S...', 0)
+#1 C:\xampp1\htdocs\RPDS\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE scheme S...')
+#2 C:\xampp1\htdocs\RPDS\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE scheme S...')
+#3 C:\xampp1\htdocs\RPDS\app\Models\Home_model.php(50): CodeIgniter\Database\BaseConnection->query('UPDATE scheme S...')
+#4 C:\xampp1\htdocs\RPDS\app\Controllers\Home.php(127): App\Models\Home_model->apply_data('1057821', Array)
+#5 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+#6 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\RPDS\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-31 08:30:20 --> Unknown column 'confirm' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(50): CodeIgniter\Database\BaseConnection->query('UPDATE scheme SET confirm=\'Decline\' WHERE app_id =\'1057821\'  ')
+ 2 APPPATH\Controllers\Home.php(127): App\Models\Home_model->apply_data('1057821', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:31:12 --> Too few arguments to function App\Models\Home_model::apply_data(), 1 passed in C:\xampp1\htdocs\RPDS\app\Controllers\Home.php on line 127 and exactly 2 expected
+in APPPATH\Models\Home_model.php on line 46.
+ 1 APPPATH\Controllers\Home.php(127): App\Models\Home_model->apply_data([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-31 08:35:10 --> mysqli_sql_exception: Unknown column 'confirm' in 'field list' in C:\xampp1\htdocs\RPDS\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\RPDS\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE scheme S...', 0)
+#1 C:\xampp1\htdocs\RPDS\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE scheme S...')
+#2 C:\xampp1\htdocs\RPDS\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE scheme S...')
+#3 C:\xampp1\htdocs\RPDS\app\Models\Home_model.php(50): CodeIgniter\Database\BaseConnection->query('UPDATE scheme S...')
+#4 C:\xampp1\htdocs\RPDS\app\Controllers\Home.php(128): App\Models\Home_model->apply_data('1057821', Array)
+#5 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+#6 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\RPDS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\RPDS\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-31 08:35:10 --> Unknown column 'confirm' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Home_model.php(50): CodeIgniter\Database\BaseConnection->query('UPDATE scheme SET confirm=\'Decline\' WHERE app_id =\'1057821\'  ')
+ 2 APPPATH\Controllers\Home.php(128): App\Models\Home_model->apply_data('1057821', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->confirm_process('1057821')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:49:17 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:50:17 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:50:22 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 08:50:51 --> syntax error, unexpected variable "$result"
+in APPPATH\Controllers\Home.php on line 129.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

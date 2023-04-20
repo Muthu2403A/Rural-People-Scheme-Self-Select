@@ -1,0 +1,572 @@
+CRITICAL - 2023-03-10 05:35:33 --> syntax error, unexpected end of file
+in APPPATH\Views\students\studedit.tpl on line 355.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:37:19 --> syntax error, unexpected end of file
+in APPPATH\Views\students\studedit.tpl on line 353.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:38:07 --> syntax error, unexpected end of file
+in APPPATH\Views\students\studedit.tpl on line 353.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:39:08 --> syntax error, unexpected end of file
+in APPPATH\Views\students\studedit.tpl on line 353.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:41:30 --> syntax error, unexpected end of file
+in APPPATH\Views\students\studedit.tpl on line 355.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:42:12 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\students\studedit.tpl on line 332.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:53:55 --> syntax error, unexpected token "endif", expecting end of file
+in APPPATH\Views\students\studedit.tpl on line 294.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(43): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 05:53:58 --> syntax error, unexpected token "endif", expecting end of file
+in APPPATH\Views\students\studedit.tpl on line 294.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 3 APPPATH\Controllers\Student.php(43): view('students/studedit.tpl', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:09:42 --> syntax error, unexpected token "==", expecting ")"
+in APPPATH\Models\Stud_model.php on line 45.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\Stud_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Stud_model')
+ 3 APPPATH\Controllers\Student.php(41): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Stud_model')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:10:04 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(44): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:11:56 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(45): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:11:58 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(45): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:12:46 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(45): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('111')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:13:24 --> Undefined variable $stud
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(45): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('111')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:15:11 --> Array to string conversion
+in APPPATH\Models\Stud_model.php on line 47.
+ 1 APPPATH\Models\Stud_model.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Models\\Stud_model.php', 47)
+ 2 APPPATH\Controllers\Student.php(45): App\Models\Stud_model->edit_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('111')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:16:25 --> Undefined variable $stud
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('111')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:24:03 --> Undefined variable $stud
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('111')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:38:32 --> Undefined variable $stud
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(46): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 06:47:16 --> Undefined constant "App\Models\stud_id"
+in APPPATH\Models\Stud_model.php on line 63.
+ 1 APPPATH\Controllers\Student.php(98): App\Models\Stud_model->remove_data(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->remove_process('111')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 07:09:26 --> Undefined variable $status
+in APPPATH\Views\students\pages-blank.tpl on line 281.
+ 1 APPPATH\Views\students\pages-blank.tpl(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\pages-blank.tpl', 281)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(101): view('students/pages-blank.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->remove_process('1001')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-10 12:25:30 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'aadharno' in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE student ...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE student ...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE student ...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Stud_model.php(57): CodeIgniter\Database\BaseConnection->query('UPDATE student ...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Student.php(72): App\Models\Stud_model->update_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Student->update_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-10 12:25:30 --> Duplicate entry '2147483647' for key 'aadharno'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Stud_model.php(57): CodeIgniter\Database\BaseConnection->query('UPDATE student SET aadharno=\'660245870856\',emisno=\'\' WHERE stud_id =\'1002\' ')
+ 2 APPPATH\Controllers\Student.php(72): App\Models\Stud_model->update_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-10 12:27:05 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'aadharno' in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE student ...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE student ...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE student ...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Stud_model.php(57): CodeIgniter\Database\BaseConnection->query('UPDATE student ...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Student.php(72): App\Models\Stud_model->update_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Student->update_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-10 12:27:05 --> Duplicate entry '2147483647' for key 'aadharno'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Stud_model.php(57): CodeIgniter\Database\BaseConnection->query('UPDATE student SET aadharno=\'666945871230\',emisno=\'\' WHERE stud_id =\'1002\' ')
+ 2 APPPATH\Controllers\Student.php(72): App\Models\Stud_model->update_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 12:56:38 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 12:58:27 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 12:59:03 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 12:59:08 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:00:13 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:01:01 --> Undefined variable $status
+in APPPATH\Views\students\studupdate.tpl on line 284.
+ 1 APPPATH\Views\students\studupdate.tpl(284): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studupdate.tpl', 284)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studupdate.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studupdate.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(36): view('students/studupdate.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_page('1002')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:02:39 --> Undefined variable $stud_ids
+in APPPATH\Controllers\Student.php on line 97.
+ 1 APPPATH\Controllers\Student.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_ids', 'APPPATH\\Controllers\\Student.php', 97)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:02:48 --> Undefined variable $stud_ids
+in APPPATH\Controllers\Student.php on line 97.
+ 1 APPPATH\Controllers\Student.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_ids', 'APPPATH\\Controllers\\Student.php', 97)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1125')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:03:53 --> Undefined variable $stud_ids
+in APPPATH\Controllers\Student.php on line 97.
+ 1 APPPATH\Controllers\Student.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_ids', 'APPPATH\\Controllers\\Student.php', 97)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page('1001')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:04:52 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:05:51 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:06:42 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:06:46 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:08:39 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Student.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Student/edit_page')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Student/edit_page')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Student/edit_page')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:08:41 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Student.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Student/update_page/1002')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Student/update_page/1002')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Student/update_page/1002')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:08:45 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Student.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Student/update_page/1002')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Student/update_page/1002')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Student/update_page/1002')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:08:50 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Student.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Student/list_page')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Student/list_page')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Student/list_page')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:08:57 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Student.php on line 82.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Student.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Student')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Student')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Student', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:09:43 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 92.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:11:07 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 92.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:12:41 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 92.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:16:00 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(99): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:17:10 --> Undefined variable $stud_id
+in APPPATH\Views\students\studedit.tpl on line 304.
+ 1 APPPATH\Views\students\studedit.tpl(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Views\\students\\studedit.tpl', 304)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(99): view('students/studedit.tpl', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:19:22 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:19:59 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:20:13 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:20:28 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:22:36 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:22:37 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:22:59 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:24:01 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:25:43 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 94.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:26:24 --> Undefined variable $stud_id
+in APPPATH\Controllers\Student.php on line 99.
+ 1 APPPATH\Controllers\Student.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud_id', 'APPPATH\\Controllers\\Student.php', 99)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:26:41 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 94.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:29:50 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:30:22 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:30:58 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:30:58 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:31:10 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 94.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:31:21 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 94.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:36:17 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:37:07 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:37:10 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:37:45 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:37:58 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:38:51 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-10 13:40:11 --> Too few arguments to function App\Controllers\Student::edit_page(), 0 passed in C:\xampp1\htdocs\muthu\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Student.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->edit_page()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

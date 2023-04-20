@@ -1,0 +1,323 @@
+CRITICAL - 2023-03-13 06:19:53 --> Undefined variable $status
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(78): view('students/studedit.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:21:23 --> Undefined variable $status
+in APPPATH\Views\students\pages-blank.tpl on line 269.
+ 1 APPPATH\Views\students\pages-blank.tpl(269): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\pages-blank.tpl', 269)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(79): view('students/pages-blank.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:22:08 --> Undefined variable $status
+in APPPATH\Views\students\pages-blank.tpl on line 269.
+ 1 APPPATH\Views\students\pages-blank.tpl(269): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\pages-blank.tpl', 269)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(79): view('students/pages-blank.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:22:35 --> Undefined variable $status
+in APPPATH\Views\students\pages-blank.tpl on line 269.
+ 1 APPPATH\Views\students\pages-blank.tpl(269): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\pages-blank.tpl', 269)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\pages-blank.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(79): view('students/pages-blank.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:28:06 --> Call to undefined function App\Controllers\update()
+in APPPATH\Controllers\Student.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:29:08 --> Undefined variable $status
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(89): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(79): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:30:25 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(89): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(79): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:32:58 --> Undefined array key "aadharno"
+in APPPATH\Models\Stud_model.php on line 55.
+ 1 APPPATH\Models\Stud_model.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aadharno"', 'APPPATH\\Models\\Stud_model.php', 55)
+ 2 APPPATH\Controllers\Student.php(74): App\Models\Stud_model->update_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:36:22 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Student.php on line 51.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('Student/list_page')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('Student/list_page')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Student/list_page')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:37:31 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:37:54 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:40:19 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:40:57 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:44:54 --> Call to a member function getNumRows() on null
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 4 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 5 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:45:15 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:48:04 --> Call to a member function getNumRows() on bool
+in APPPATH\Views\students\pages-blank.tpl on line 269.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/pages-blank.tpl', [], true)
+ 4 APPPATH\Controllers\Student.php(104): view('students/pages-blank.tpl', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->remove_process('1102')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-13 06:50:10 --> mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp1\htdocs\muthu\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO stu...', 0)
+#1 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO stu...')
+#2 C:\xampp1\htdocs\muthu\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO stu...')
+#3 C:\xampp1\htdocs\muthu\app\Models\Stud_model.php(26): CodeIgniter\Database\BaseConnection->query('INSERT INTO stu...')
+#4 C:\xampp1\htdocs\muthu\app\Controllers\Student.php(52): App\Models\Stud_model->insert_data(Array)
+#5 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#7 C:\xampp1\htdocs\muthu\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\muthu\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-13 06:50:10 --> Column count doesn't match value count at row 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Stud_model.php(26): CodeIgniter\Database\BaseConnection->query('INSERT INTO student (stud_id, studname,dob,sem,depart,year) VALUES (\'1002\',\'Abdul Rahman\',\'2000-05-24\',\'Fourth Sem\',\'MCA\',\'II year\',aadharno=\'660874561235\',emisno=\'EMIS1234ADLU0007\')')
+ 2 APPPATH\Controllers\Student.php(52): App\Models\Stud_model->insert_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 06:55:42 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:08:43 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(94): view('students/studedit.tpl')
+ 6 APPPATH\Controllers\Student.php(84): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:16:42 --> The route for "http://192.168.1.6/muthu/Student/list_page" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://192.168.1.6/muthu/Student/list_page')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(84): redirect('http://192.168.1.6/muthu/Student/list_page')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:17:36 --> The route for "http://192.168.1.6/muthu/Student/" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://192.168.1.6/muthu/Student/')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(84): redirect('http://192.168.1.6/muthu/Student/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:19:39 --> Undefined property: App\Controllers\Student::$load
+in APPPATH\Controllers\Student.php on line 86.
+ 1 APPPATH\Controllers\Student.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Student::$load', 'APPPATH\\Controllers\\Student.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:24:44 --> Undefined property: App\Controllers\Student::$load
+in APPPATH\Controllers\Student.php on line 86.
+ 1 APPPATH\Controllers\Student.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Student::$load', 'APPPATH\\Controllers\\Student.php', 86)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:24:58 --> The route for "http://192.168.1.6/muthu/Student/" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://192.168.1.6/muthu/Student/')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(87): redirect('http://192.168.1.6/muthu/Student/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:25:33 --> The route for "Student/pages-blank.tpl" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('Student/pages-blank.tpl')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(87): redirect('Student/pages-blank.tpl')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:25:48 --> The route for "Student/pages-blank" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('Student/pages-blank')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(87): redirect('Student/pages-blank')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:27:28 --> The route for "Student/update" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('Student/update')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(87): redirect('Student/update')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:28:05 --> The route for "Student/update" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('Student/update')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(87): redirect('Student/update')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:33:36 --> The route for "Student/update" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('Student/update')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Student.php(88): redirect('Student/update')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:43:19 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(97): view('students/studedit.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 07:44:16 --> Undefined variable $query
+in APPPATH\Views\students\studedit.tpl on line 273.
+ 1 APPPATH\Views\students\studedit.tpl(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'APPPATH\\Views\\students\\studedit.tpl', 273)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\students\\studedit.tpl')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('students/studedit.tpl', [], true)
+ 5 APPPATH\Controllers\Student.php(97): view('students/studedit.tpl')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->update()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

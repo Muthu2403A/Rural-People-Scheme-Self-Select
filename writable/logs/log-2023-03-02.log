@@ -1,0 +1,981 @@
+CRITICAL - 2023-03-02 07:53:31 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 102.
+ 1 APPPATH/Views/studentupdate.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:09 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:28 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:32 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:47 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:47 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:48 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:55:54 --> Undefined variable: stud_id
+in APPPATH/Views/studentupdate.tpl on line 106.
+ 1 APPPATH/Views/studentupdate.tpl(106): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentupdate.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(25): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:58:57 --> syntax error, unexpected end of file
+in APPPATH/Views/studentupdate.tpl on line 185.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(25): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:59:19 --> syntax error, unexpected end of file
+in APPPATH/Views/studentupdate.tpl on line 185.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(25): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 07:59:34 --> syntax error, unexpected end of file
+in APPPATH/Views/studentupdate.tpl on line 184.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(25): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 08:00:11 --> syntax error, unexpected end of file
+in APPPATH/Views/studentupdate.tpl on line 184.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(25): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 09:46:18 --> mysqli_sql_exception: Duplicate entry '126875' for key 'PRIMARY' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 09:46:18 --> Duplicate entry '126875' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 09:59:04 --> mysqli_sql_exception: Duplicate entry '126875' for key 'PRIMARY' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 09:59:04 --> Duplicate entry '126875' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:06:21 --> mysqli_sql_exception: Duplicate entry '1101' for key 'PRIMARY' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:06:21 --> Duplicate entry '1101' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:06:46 --> mysqli_sql_exception: Duplicate entry '1011' for key 'PRIMARY' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:06:46 --> Duplicate entry '1011' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 10:23:24 --> Call to a member function getNumRows() on bool
+in APPPATH/Models/Stud_model.php on line 14.
+ 1 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:24:15 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:24:15 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(12): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:46:50 --> mysqli_sql_exception: Table 'codedb.Student' doesn't exist in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(14): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:46:50 --> Table 'codedb.Student' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(14): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:48:15 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:48:15 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:51:33 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(20): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:51:33 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(20): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:52:13 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:52:13 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:55:30 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:55:30 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:56:33 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:56:33 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:56:36 --> mysqli_sql_exception: Duplicate entry '1011' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:56:36 --> Duplicate entry '1011' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 10:58:15 --> mysqli_sql_exception: Duplicate entry '1016' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->add_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 10:58:15 --> Duplicate entry '1016' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(24): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(38): App\Models\Stud_model->insert_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->add_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:45:05 --> syntax error, unexpected 'foreach' (T_FOREACH)
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:46:17 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:46:39 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:46:51 --> Undefined variable: data
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:51:21 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:52:12 --> Undefined variable: persons
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:54:10 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 102.
+ 1 APPPATH/Views/studentlist.tpl(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:55:17 --> syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH/Views/studentlist.tpl on line 122.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:56:26 --> syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH/Views/studentlist.tpl on line 121.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:57:18 --> syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH/Views/studentlist.tpl on line 121.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:57:19 --> syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH/Views/studentlist.tpl on line 121.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Student.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 11:57:42 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:02:07 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:02:08 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:02:08 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:02:19 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:09:06 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:09:12 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:12:36 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:02 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:02 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:03 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:04 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:04 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:11 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:11 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:11 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:11 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:12 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:14:14 --> Undefined variable: student
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:15:17 --> Undefined variable: Stud_model
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:19:45 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:22 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:23 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:23 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:24 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:24 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:51 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:52 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:52 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:52 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:20:53 --> Undefined variable: status
+in APPPATH/Views/studentlist.tpl on line 88.
+ 1 APPPATH/Views/studentlist.tpl(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/studentlist.tpl')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Student.php(17): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 12:26:32 --> mysqli_sql_exception: Table 'codedb.Student' doesn't exist in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(41): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(51): App\Models\Stud_model->list_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->list_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 12:26:32 --> Table 'codedb.Student' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(41): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(51): App\Models\Stud_model->list_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 12:28:23 --> mysqli_sql_exception: Table 'codedb.Student' doesn't exist in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(41): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(18): App\Models\Stud_model->list_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->list_page()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 12:28:23 --> Table 'codedb.Student' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(41): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(18): App\Models\Stud_model->list_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:28:57 --> Cannot use object of type stdClass as array
+in APPPATH/Views/studentlist.tpl on line 104.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Student.php(21): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:32:36 --> Cannot use object of type stdClass as array
+in APPPATH/Views/studentlist.tpl on line 104.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Student.php(21): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->list_page()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:43:48 --> syntax error, unexpected 'function' (T_FUNCTION)
+in APPPATH/Controllers/Student.php on line 65.
+ 1 SYSTEMPATH/Router/Router.php(507): CodeIgniter\Router\AutoRouter->getRoute()
+ 2 SYSTEMPATH/Router/Router.php(206): CodeIgniter\Router\Router->autoRoute()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 12:55:05 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(49): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->update_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 12:55:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(49): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 12:58:23 --> syntax error, unexpected end of file
+in APPPATH/Models/Stud_model.php on line 52.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 APPPATH/Controllers/Student.php(59): spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 12:58:49 --> mysqli_sql_exception: Duplicate entry '25' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(49): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->update_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 12:58:49 --> Duplicate entry '25' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(49): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 13:02:15 --> mysqli_sql_exception: Duplicate entry '25' for key 'stud_id' in /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/techmaxima2/development/repos/web/zdemo/muthu/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Models/Stud_model.php(60): CodeIgniter\Database\BaseConnection->query()
+#4 /home/techmaxima2/development/repos/web/zdemo/muthu/app/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+#5 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(934): App\Controllers\Student->update_process()
+#6 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/techmaxima2/development/repos/web/zdemo/muthu/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/techmaxima2/development/repos/web/zdemo/muthu/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 13:02:15 --> Duplicate entry '25' for key 'stud_id'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 APPPATH/Models/Stud_model.php(60): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Student.php(69): App\Models\Stud_model->update_data()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Student->update_process()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
